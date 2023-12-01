@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "electron-packager": "^15.2.0",
+    "electron-packager": "^17.0.0",
     "gitcloud": "^0.2.0",
     "hasbin": "^1.2.3",
     "loglevel": "^1.7.1",
